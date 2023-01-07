@@ -199,6 +199,20 @@ footer .right-ft {
     border: 1px solid #828282;
 }
 
+.btn-action button:first-of-type:hover {
+    background: #86291d !important;
+}
+
+.btn-action button:last-of-type:hover {
+    color: #585858;
+}
+
+.btn-action button:hover {
+    cursor: pointer;
+    -webkit-box-shadow: 12px 5px 18px -7px rgba(0,0,0,0.88); 
+    box-shadow: 12px 5px 18px -7px rgba(0,0,0,0.88);
+}
+
 .leg-cont {
     margin-left: auto;
     margin-right: auto;
@@ -209,7 +223,7 @@ footer .right-ft {
 }
 
 .rec-container {
-    width: 75%;
+    width: 68%;
     margin-left: auto;
     margin-right: auto;
     display: flex;
