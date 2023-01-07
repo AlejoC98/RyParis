@@ -226,3 +226,10 @@ footer .right-ft {
 .right-side {
     width: 50%;
 }
+
+.vid-cont video {
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
